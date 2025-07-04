@@ -24,6 +24,7 @@ This project is a deep learning-based web application for detecting brain tumors
 2. Preprocessing: Image is resized, normalized, and processed using OpenCV  
 3. Prediction: CNN model classifies the image as Tumor or No Tumor  
 4. Output: Prediction is displayed on the Streamlit interface
+5. Demo: https://github.com/piyush09-09/Brain-tumor-Detection-Model-/blob/main/Demo%20Video.mp4
 
 ## How to Run the App
 
